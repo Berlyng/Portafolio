@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\source\\repos\\Portafolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E017B3E-2928-4362-B784-B553AECC7D7C}|Portafolio.web\\Portafolio.web.csproj|c:\\users\\administrador\\source\\repos\\portafolio\\portafolio.web\\views\\home\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E017B3E-2928-4362-B784-B553AECC7D7C}|Portafolio.web\\Portafolio.web.csproj|solutionrelative:portafolio.web\\views\\home\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E017B3E-2928-4362-B784-B553AECC7D7C}|Portafolio.web\\Portafolio.web.csproj|c:\\users\\administrador\\source\\repos\\portafolio\\portafolio.web\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E017B3E-2928-4362-B784-B553AECC7D7C}|Portafolio.web\\Portafolio.web.csproj|solutionrelative:portafolio.web\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E017B3E-2928-4362-B784-B553AECC7D7C}|Portafolio.web\\Portafolio.web.csproj|c:\\users\\administrador\\source\\repos\\portafolio\\portafolio.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E017B3E-2928-4362-B784-B553AECC7D7C}|Portafolio.web\\Portafolio.web.csproj|solutionrelative:portafolio.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E017B3E-2928-4362-B784-B553AECC7D7C}|Portafolio.web\\Portafolio.web.csproj|c:\\users\\administrador\\source\\repos\\portafolio\\portafolio.web\\models\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E017B3E-2928-4362-B784-B553AECC7D7C}|Portafolio.web\\Portafolio.web.csproj|solutionrelative:portafolio.web\\models\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E017B3E-2928-4362-B784-B553AECC7D7C}|Portafolio.web\\Portafolio.web.csproj|c:\\users\\administrador\\source\\repos\\portafolio\\portafolio.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E017B3E-2928-4362-B784-B553AECC7D7C}|Portafolio.web\\Portafolio.web.csproj|solutionrelative:portafolio.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E017B3E-2928-4362-B784-B553AECC7D7C}|Portafolio.web\\Portafolio.web.csproj|c:\\users\\administrador\\source\\repos\\portafolio\\portafolio.web\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E017B3E-2928-4362-B784-B553AECC7D7C}|Portafolio.web\\Portafolio.web.csproj|solutionrelative:portafolio.web\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E017B3E-2928-4362-B784-B553AECC7D7C}|Portafolio.web\\Portafolio.web.csproj|c:\\users\\administrador\\source\\repos\\portafolio\\portafolio.web\\views\\home\\_presentation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E017B3E-2928-4362-B784-B553AECC7D7C}|Portafolio.web\\Portafolio.web.csproj|solutionrelative:portafolio.web\\views\\home\\_presentation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Portafolio\\Portafolio.web\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Portafolio.web\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Portafolio\\Portafolio.web\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Portafolio.web\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T21:34:33.69Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Thanks.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Portafolio\\Portafolio.web\\Views\\Home\\Thanks.cshtml",
+              "RelativeDocumentMoniker": "Portafolio.web\\Views\\Home\\Thanks.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Portafolio\\Portafolio.web\\Views\\Home\\Thanks.cshtml",
+              "RelativeToolTip": "Portafolio.web\\Views\\Home\\Thanks.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T22:10:26.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Portafolio\\Portafolio.web\\Models\\ContactViewModel.cs",
+              "RelativeDocumentMoniker": "Portafolio.web\\Models\\ContactViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Portafolio\\Portafolio.web\\Models\\ContactViewModel.cs",
+              "RelativeToolTip": "Portafolio.web\\Models\\ContactViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T21:32:25.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Portafolio\\Portafolio.web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Portafolio.web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Portafolio\\Portafolio.web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Portafolio.web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T21:29:11.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Portafolio\\Portafolio.web\\Views\\Home\\Projects.cshtml",
+              "RelativeDocumentMoniker": "Portafolio.web\\Views\\Home\\Projects.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Portafolio\\Portafolio.web\\Views\\Home\\Projects.cshtml",
+              "RelativeToolTip": "Portafolio.web\\Views\\Home\\Projects.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T21:26:27.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Portafolio\\Portafolio.web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Portafolio.web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Portafolio\\Portafolio.web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Portafolio.web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwCkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T21:25:27.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Presentation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Portafolio\\Portafolio.web\\Views\\Home\\_Presentation.cshtml",
+              "RelativeDocumentMoniker": "Portafolio.web\\Views\\Home\\_Presentation.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Portafolio\\Portafolio.web\\Views\\Home\\_Presentation.cshtml",
+              "RelativeToolTip": "Portafolio.web\\Views\\Home\\_Presentation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T18:48:22.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
